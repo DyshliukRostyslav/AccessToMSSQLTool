@@ -1,0 +1,10 @@
+D:\Projects\C#\AccessToMSSQL\AccessToMSSQL\bin\Debug\AccessToMSSQL.exe.config
+D:\Projects\C#\AccessToMSSQL\AccessToMSSQL\bin\Debug\AccessToMSSQL.exe
+D:\Projects\C#\AccessToMSSQL\AccessToMSSQL\bin\Debug\AccessToMSSQL.pdb
+D:\Projects\C#\AccessToMSSQL\AccessToMSSQL\obj\Debug\AccessToMSSQL.Properties.Resources.resources
+D:\Projects\C#\AccessToMSSQL\AccessToMSSQL\obj\Debug\AccessToMSSQL.csproj.GenerateResource.Cache
+D:\Projects\C#\AccessToMSSQL\AccessToMSSQL\obj\Debug\AccessToMSSQL.exe
+D:\Projects\C#\AccessToMSSQL\AccessToMSSQL\obj\Debug\AccessToMSSQL.pdb
+D:\Projects\C#\AccessToMSSQL\AccessToMSSQL\obj\Debug\AccessToMSSQL.csprojResolveAssemblyReference.cache
+D:\Projects\C#\AccessToMSSQL\AccessToMSSQL\bin\Debug\AdvancedWizard.dll
+D:\Projects\C#\AccessToMSSQL\AccessToMSSQL\obj\Debug\AccessToMSSQL.AccessToMSSQL.resources
